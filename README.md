@@ -95,8 +95,7 @@ Figma
 
 ## OUTPUT:
 
-
-C:\Users\acer\OneDrive\Desktop\figma\Figma\Screenshot 2025-12-30 111039.png
+Screenshot 2025-12-30 111039.png
 
 
 ## RESULT:
