@@ -95,7 +95,9 @@ Figma
 
 ## OUTPUT:
 
-Screenshot 2025-12-30 111039.png
+
+<img width="1085" height="822" alt="Screenshot 2025-12-30 111039" src="https://github.com/user-attachments/assets/97ef5b21-5bf3-424a-96e8-596f5c96b4c2" />
+
 
 
 ## RESULT:
